@@ -16,5 +16,6 @@ int main(){
 	
 	cout << coins << endl;
 	cout << "Hello World!";
+	cout << "I can modify coins.cpp here!";
 	return 0;
 }
