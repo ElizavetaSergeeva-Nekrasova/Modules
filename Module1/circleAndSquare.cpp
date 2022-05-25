@@ -20,6 +20,6 @@ int main(){
 	cout << "Circle area = " << circleArea
 	<< ", the area of circle sections uncovered by the square = " 
 	<< uncoveredAreas << ", the length of circle is greater than the length of sides of the square by " << distinction;
-	
+	//If worked succesfully returns 0
 	return 0;
 }
