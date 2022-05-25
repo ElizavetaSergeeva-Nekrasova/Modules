@@ -14,6 +14,7 @@ int main(){
 	integer = fractional;
 	coins = fractional - integer;
 	
-	cout << coins;
+	cout << coins << endl;
+	cout << "Hello World!";
 	return 0;
 }
